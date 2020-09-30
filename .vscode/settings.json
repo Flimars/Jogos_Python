@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3.8",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "python.formatting.provider": "autopep8"
+}
