@@ -1,2 +1,2 @@
 # Jogos_Python
-Exercitando atrvés da criação de jogos simples e populares Linguagem Python 3.
+Exercitando a Linguagem Python 3 através da criação de jogos simples e populares.
